@@ -1,1 +1,1 @@
-系统需求规格说明书1.0
+system requirement specification 1.0
